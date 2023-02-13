@@ -15,4 +15,4 @@ The project depicts a demographic profile of Turkish citizen, which could be sup
 
 The project provides several prediction model based on some demographics of Turkish citizen, which could be supportive for decision-making and risk-prevention. For instance, the algorithm predicting the new-born population could imply the market power of infants in the following year, which is beneficial for business analysis. The models analyzed from all these data are valuable for many agents.
 
-![img](MernisDataAnalysis/pred.png)
+![img](pred.png)
